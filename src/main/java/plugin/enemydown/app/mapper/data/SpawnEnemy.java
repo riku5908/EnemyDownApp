@@ -11,6 +11,6 @@ public class SpawnEnemy {
 
   private int id;
   private String difficulty;
-  private String enemy_name;
+  private String enemyName;
   private int score;
 }
